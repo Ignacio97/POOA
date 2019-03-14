@@ -9,6 +9,7 @@ Este proyecto consiste en implementar los temas vistos en clase de la materia de
  5. Interfaces gráficas de usuario
 
 Team: Hulk
+
 Members: 
  1. Omar Osuna @github -> Omaralon
  2. Ivan Morales  
